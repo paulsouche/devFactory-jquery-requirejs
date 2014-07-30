@@ -1,0 +1,22 @@
+{
+    "undef": true,
+    "camelcase" : true,
+    "curly" : true,
+    "eqeqeq" : true,
+    "forin" : true,
+    "immed" : true,
+    "latedef" : true,
+    "newcap" : true,
+    "strict" : true,
+    "trailing" : true,
+    "globals": {
+       "require": false,
+       "define": false,
+       "window": false,
+       "jasmine": false,
+       "describe":false,
+       "it":false,
+       "expect":false,
+       "module":false
+    }
+}

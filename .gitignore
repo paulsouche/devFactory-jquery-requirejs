@@ -1,0 +1,15 @@
+# OS X
+*.DS_Store
+._*
+
+# Webstorm
+.idea/
+
+#npm bower
+node_modules/
+vendor/
+
+#Front Build Files
+.sass-cache
+.tmp
+dist
