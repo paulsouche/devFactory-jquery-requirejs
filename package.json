@@ -1,6 +1,6 @@
 {
   "name": "devFactory-jquery-requirejs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "empty dev factory to bootstrap a project with jquery and requirejs",
   "main": "Gruntfile.js",
   "scripts": {
