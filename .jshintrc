@@ -10,13 +10,16 @@
     "strict" : true,
     "trailing" : true,
     "globals": {
+       "exports": false,
        "require": false,
        "define": false,
        "window": false,
        "jasmine": false,
-       "describe":false,
-       "it":false,
-       "expect":false,
-       "module":false
+       "describe": false,
+       "it": false,
+       "expect": false,
+       "module": false,
+       "waitsFor": false,
+       "runs": false
     }
 }
